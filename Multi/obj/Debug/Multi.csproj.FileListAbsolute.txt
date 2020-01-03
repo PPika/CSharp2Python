@@ -1,0 +1,4 @@
+F:\DEMO\CSharp2Python\Multi\bin\Debug\Multi.dll
+F:\DEMO\CSharp2Python\Multi\bin\Debug\Multi.pdb
+F:\DEMO\CSharp2Python\Multi\obj\Debug\Multi.dll
+F:\DEMO\CSharp2Python\Multi\obj\Debug\Multi.pdb
