@@ -1,0 +1,11 @@
+f:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.exe
+F:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.deps.json
+F:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.json
+F:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.dev.json
+f:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.dll
+f:\DEMO\CSharp2Python\Demo1\CS\bin\Debug\netcoreapp3.1\CS.pdb
+f:\DEMO\CSharp2Python\Demo1\CS\obj\Debug\netcoreapp3.1\CS.csprojAssemblyReference.cache
+f:\DEMO\CSharp2Python\Demo1\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfoInputs.cache
+f:\DEMO\CSharp2Python\Demo1\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfo.cs
+f:\DEMO\CSharp2Python\Demo1\CS\obj\Debug\netcoreapp3.1\CS.dll
+f:\DEMO\CSharp2Python\Demo1\CS\obj\Debug\netcoreapp3.1\CS.pdb
