@@ -45,4 +45,4 @@ cla.Show(2,3) # 接口使用
 import system
 system.path.append("x://xxxxx//xxx")
 ```
-最后附上PythonNet的详细使用说明，参考[官方说明](https://pythonnet.github.io/)。
+在 `Simple Example` 文件夹就是上面代码的修改版本，最后附上PythonNet的详细使用说明，参考[官方说明](https://pythonnet.github.io/)。

@@ -11,7 +11,7 @@ namespace Multi
         public void Show(int a,int b)
         {
             Console.WriteLine((Math.Pow(a, b).ToString()));
-            Console.Read();
+           // Console.Read();
         }
     }
 }
