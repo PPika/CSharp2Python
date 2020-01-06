@@ -2,7 +2,7 @@ Python调用C#的.so文件来实现Python和C#的交互。
 # 方法一：使用[PythonNet](https://pypi.org/project/pythonnet/2.2.1/) 包
 > Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. It allows Python code to interact with the CLR, and may also be used to embed Python into a .NET application.
 
-相较于另一个Python调用C#的包[IronPython](https://github.com/IronLanguages/ironpython3)，pythonNet是以Python为主体去调用的C#接口，而IronPython是.Net为主体，部分功能使用Python。
+相较于另一个Python调用C#的包[IronPython](https://github.com/IronLanguages/ironpython3)，PythonNet是以Python为主体去调用的C#接口，而IronPython是.Net为主体，部分功能使用Python。
 
 # 使用流程
 ### 安装PythonNet
